@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Tejas p",
+    "latitude": 51.41233,
+    "longitude": 0.300689,
+    "address": "London, United Kingdom",
+    "profileImage": "https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHVzZXJ8ZW58MHx8MHx8fDA%3D",
+    "dob": "1998-05-01",
+    "email": "tejasP@example.com",
+    "phoneNumber": "+44 123456789"
+  },
+  {
+    "id": 2,
+    "name": "Shyam p",
+    "latitude": 53.893009,
+    "longitude": 27.567444,
+    "address": "Paris",
+    "profileImage": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHVzZXJ8ZW58MHx8MHx8fDA%3D",
+    "dob": "1964-09-20",
+    "email": "sham@example.com",
+    "phoneNumber": "+1 1234567890"
+  },
+  {
+    "id": 3,
+    "name": "rahul",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "address": "New Delhi, India",
+    "profileImage": "https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHVzZXJ8ZW58MHx8MHx8fDA%3D",
+    "dob": "1985-10-02",
+    "email": "rahul@example.com",
+    "phoneNumber": "+91 1234567890"
+  },
+  {
+    "id": 4,
+    "name": "Shane warne",
+    "latitude": 51.5074,
+    "longitude": -0.1278,
+    "address": "Brisbane, Australia",
+    "profileImage": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHVzZXJ8ZW58MHx8MHx8fDA%3D",
+    "dob": "1990-04-15",
+    "email": "shanewarne@example.com",
+    "phoneNumber": "+44 123456789"
+  }
+]
